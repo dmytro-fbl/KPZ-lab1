@@ -8,3 +8,14 @@ C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ О�
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.dll
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.pdb
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleCl.CEE86A04.Up2Date
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.exe.config
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.exe
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.csproj.AssemblyReference.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.exe.config
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.csproj.CoreCompileInputs.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleCl.CEE86A04.Up2Date
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.exe
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.pdb

@@ -4,3 +4,9 @@ C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ О�
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.CoreCompileInputs.cache
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
 C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.AssemblyReference.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 2 семестр\КОНСТРУЮВАННЯ ПЗ\Lab1\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb

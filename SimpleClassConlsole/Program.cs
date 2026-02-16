@@ -9,6 +9,7 @@ namespace SimpleClassConlsole
     {
         static void Main(string[] args)
         {
+            Record recordConsole = new Record();
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
             Console.Title = "Лабораторна робота №5";
@@ -16,27 +17,11 @@ namespace SimpleClassConlsole
             Product[] products = new Product[0];
             Product product = new Product();
 
+
             while (true)
             {
-                Console.BackgroundColor = ConsoleColor.White;
-                Console.ForegroundColor = ConsoleColor.DarkBlue;
-                Console.Clear();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Лабораторна робота №5");
-                Console.WriteLine("Виконав: Руденко Д.Р.");
-                Console.WriteLine("Завдання №1");
-                Console.ForegroundColor = ConsoleColor.DarkBlue;
-
-                Console.WriteLine("\nМЕНЮ");
-                Console.WriteLine("1 - Ввести продукт");
-                Console.WriteLine("2 - Вивести поточний продукт");
-                Console.WriteLine("3 - Вивести всі продукти на складі");
-                Console.WriteLine("4 - Вивести найдешевший і найдорожчий товар");
-                Console.WriteLine("5 - Сортувати всі товари за зростанням ціни");
-                Console.WriteLine("6 - Сортувати всі товари за кількістю");
-                Console.WriteLine("7 - Вивести загальну вагу товарів");
-                Console.WriteLine("8 - Вивести термін придатності");
-                Console.WriteLine("0 - Вихід");
+                
+                recordConsole.WriteMenuToConsole();
 
                 int menu;
                 bool good;
@@ -57,12 +42,12 @@ namespace SimpleClassConlsole
                         break;
                     case 2:
                         if (products.Length > 0)
-                            PrintProduct(products[products.Length - 1]);
+                            recordConsole.PrintProduct(products[products.Length - 1]);
                         else
                             Console.WriteLine("Товари відсутні.");
                         break;
                     case 3:
-                        PrintProducts(products);
+                        recordConsole.PrintProducts(products);
                         break;
                     case 4:
                         if (products.Length > 0)
@@ -105,6 +90,7 @@ namespace SimpleClassConlsole
 
         public static Product ReadProductsArray()
         {
+            
             bool good;
             string name, producer, currencyName;
             double price, exRate;
@@ -185,31 +171,7 @@ namespace SimpleClassConlsole
             Currency currency = new Currency(currencyName, exRate);
             return new Product(name, price, quantity, producer, weight, currency, expirationDays);
         }
-
-        public static void PrintProduct(Product product)
-        {
-            Console.WriteLine("\nІнформація про товар:");
-            Console.WriteLine($"Назва: {product.GetName()}");
-            Console.WriteLine($"Ціна: {product.GetPrice()}");
-            Console.WriteLine($"Валюта: {product.GetCost().GetName()}");
-            Console.WriteLine($"Курс: {product.GetCost().GetExRate()}");
-            Console.WriteLine($"Кількість: {product.GetQuantity()}");
-            Console.WriteLine($"Виробник: {product.GetProducer()}");
-            Console.WriteLine($"Вага (кг): {product.GetWeight()}");
-            Console.WriteLine($"Ціна в UAH: {product.GetPriceInUAH()}");
-            Console.WriteLine($"Термін придатності: {product.ExpirationInDays} днів / {product.ExpirationInMonths} міс. / {product.ExpirationInYears} рік(років)\n");
-
-        }
-
-        public static void PrintProducts(Product[] products)
-        {
-            Console.WriteLine("\nІнформація про всі товари:");
-            foreach (var product in products)
-                PrintProduct(product);
-
-            Product sample = new Product();
-            Console.WriteLine($"Загальна вартість товарів (UAH): {sample.GetTotalPriceInUAH(products)}");
-        }
+        
 
         public static void GetProductsInfo(Product[] products, out double max, out double min)
         {

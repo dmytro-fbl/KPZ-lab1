@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C87D3-418A-40AC-91A9-F2DE47A74DF0}|Task1test3\\Task1test3.vcxproj|C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test3\\Task1test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C87D3-418A-40AC-91A9-F2DE47A74DF0}|Task1test3\\Task1test3.vcxproj|solutionrelative:Task1test3\\Task1test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B303D893-94D7-4000-A746-10069FEB58BC}|Task1test2\\Task1test2.vcxproj|C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test2\\Task1test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B303D893-94D7-4000-A746-10069FEB58BC}|Task1test2\\Task1test2.vcxproj|solutionrelative:Task1test2\\Task1test2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B92E9B5-ED65-4BCA-95CA-753595F4570C}|Task1test\\Task1test.vcxproj|C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test\\Task1test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B92E9B5-ED65-4BCA-95CA-753595F4570C}|Task1test\\Task1test.vcxproj|solutionrelative:Task1test\\Task1test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3F888E3-6238-4359-A663-D426082886E7}|ConsoleApp\\ConsoleApp.vcxproj|C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\ConsoleApp\\ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3F888E3-6238-4359-A663-D426082886E7}|ConsoleApp\\ConsoleApp.vcxproj|solutionrelative:ConsoleApp\\ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task1test3.cpp",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test3\\Task1test3.cpp",
+              "RelativeDocumentMoniker": "Task1test3\\Task1test3.cpp",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test3\\Task1test3.cpp",
+              "RelativeToolTip": "Task1test3\\Task1test3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T13:12:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task1test2.cpp",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test2\\Task1test2.cpp",
+              "RelativeDocumentMoniker": "Task1test2\\Task1test2.cpp",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test2\\Task1test2.cpp",
+              "RelativeToolTip": "Task1test2\\Task1test2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T13:07:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1test.cpp",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test\\Task1test.cpp",
+              "RelativeDocumentMoniker": "Task1test\\Task1test.cpp",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\Task1test\\Task1test.cpp",
+              "RelativeToolTip": "Task1test\\Task1test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T13:02:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApp.cpp",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\ConsoleApp\\ConsoleApp.cpp",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.cpp",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u041D\u0410\u0412\u0427\u0410\u041D\u041D\u042F\\\u0406 \u043A\u0443\u0440\u0441 \u0406\u0406 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041E\u0411\u0027\u0404\u041A\u0422 \u041E\u0420\u0406\u0404\u041D\u0422\u041E\u0412\u0410\u041D\u0415 \u041F\u0420\u041E\u0413\u0420\u0410\u041C\u0423\u0412\u0410\u041D\u041D\u042F\\\u043B\u0430\u0431\u043E\u043B\u0430\u0442\u043E\u0440\u043D\u0430 \u21165\\oop-lab5\\ConsoleApp\\ConsoleApp.cpp",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T11:59:45.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

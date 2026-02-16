@@ -1,0 +1,10 @@
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.csproj.AssemblyReference.cache
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.csproj.CoreCompileInputs.cache
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.exe.config
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.exe
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassConlsole.pdb
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.exe
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleClassConlsole.pdb
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.dll
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\bin\Debug\SimpleClassLibrary.pdb
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassConlsole\obj\Debug\SimpleCl.CEE86A04.Up2Date

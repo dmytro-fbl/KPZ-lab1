@@ -1,0 +1,6 @@
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.dll
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\bin\Debug\SimpleClassLibrary.pdb
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.AssemblyReference.cache
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.dll
+C:\Дмитро\НАВЧАННЯ\І курс ІІ семестр\ОБ'ЄКТ ОРІЄНТОВАНЕ ПРОГРАМУВАННЯ\лаболаторна №5\oop-lab5\SimpleClassLibrary\obj\Debug\SimpleClassLibrary.pdb

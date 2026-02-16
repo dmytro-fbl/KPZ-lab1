@@ -10,12 +10,14 @@ namespace SimpleClassConlsole
         static void Main(string[] args)
         {
             Record recordConsole = new Record();
+            InputValidator validator = new InputValidator();
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
             Console.Title = "Лабораторна робота №5";
 
             Product[] products = new Product[0];
             Product product = new Product();
+            
 
 
             while (true)
@@ -24,14 +26,8 @@ namespace SimpleClassConlsole
                 recordConsole.WriteMenuToConsole();
 
                 int menu;
-                bool good;
-                do
-                {
-                    Console.Write("Ваш вибір: ");
-                    good = int.TryParse(Console.ReadLine(), out menu);
-                    if (!good || menu < 0 || menu > 8)
-                        Console.WriteLine("Некоректне число. Спробуйте ще раз.");
-                } while (!good || menu < 0 || menu > 8);
+
+                menu = validator.ReadMenuChoice(1);
 
                 switch (menu)
                 {
@@ -90,71 +86,34 @@ namespace SimpleClassConlsole
 
         public static Product ReadProductsArray()
         {
-            
+            InputValidator validator = new InputValidator();
+            Product prod = new Product();
+            Record record = new Record();
+            int choice, expirationValue, expirationDays = 0;
             bool good;
             string name, producer, currencyName;
             double price, exRate;
             int quantity, weight;
 
-            do
-            {
-                Console.Write("Назва товару: ");
-                name = Console.ReadLine();
-            } while (string.IsNullOrWhiteSpace(name));
 
-            do
-            {
-                Console.Write("Ціна одиниці (USD): ");
-                good = double.TryParse(Console.ReadLine(), out price);
-            } while (!good || price <= 0);
+            name = validator.ReadValue("Назва товару: ", "");
+           
+            price = validator.ReadValue("Ціна одиниці (USD): ", 0.0);
+            
+            quantity = validator.ReadValue("Кількість товару: ", 0);
+            
+            producer = validator.ReadValue("Компанія-виробник: ", "");
+            
+            weight = validator.ReadValue("Вага товару (кг): ", 0);
 
-            do
-            {
-                Console.Write("Кількість товару: ");
-                good = int.TryParse(Console.ReadLine(), out quantity);
-            } while (!good || quantity <= 0);
+            currencyName = validator.ReadValue("Назва валюти: ", "");
+            
+            exRate = validator.ReadValue("Курс валюти до UAH: ", 0.0);
 
-            do
-            {
-                Console.Write("Компанія-виробник: ");
-                producer = Console.ReadLine();
-            } while (string.IsNullOrWhiteSpace(producer));
+            choice = validator.ReadExpirationDate(0);
 
-            do
-            {
-                Console.Write("Вага товару (кг): ");
-                good = int.TryParse(Console.ReadLine(), out weight);
-            } while (!good || weight <= 0);
-
-            do
-            {
-                Console.Write("Назва валюти: ");
-                currencyName = Console.ReadLine();
-            } while (string.IsNullOrWhiteSpace(currencyName));
-
-            do
-            {
-                Console.Write("Курс валюти до UAH: ");
-                good = double.TryParse(Console.ReadLine(), out exRate);
-            } while (!good || exRate <= 0);
-
-            int choice, expirationValue, expirationDays = 0;
-            Product prod = new Product();
-            do
-            {
-                Console.WriteLine("Оберіть одиниці терміну придатності:");
-                Console.WriteLine("1 — у днях");
-                Console.WriteLine("2 — у місяцях");
-                Console.WriteLine("3 — у роках");
-                good = int.TryParse(Console.ReadLine(), out choice);
-            } while (!good || choice < 1 || choice > 3);
-
-            do
-            {
-                Console.Write("Введіть значення терміну: ");
-                good = int.TryParse(Console.ReadLine(), out expirationValue);
-            } while (!good || expirationValue <= 0);
-
+            expirationValue = validator.ReadValue("Введіть значення терміну: ", 0);
+            
             switch (choice)
             {
                 case 1:

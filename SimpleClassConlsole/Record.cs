@@ -46,13 +46,13 @@ namespace SimpleClassConlsole
         public void PrintProduct(Product product)
         {
             Console.WriteLine("\nІнформація про товар:");
-            Console.WriteLine($"Назва: {product.GetName()}");
-            Console.WriteLine($"Ціна: {product.GetPrice()}");
-            Console.WriteLine($"Валюта: {product.GetCost().GetName()}");
-            Console.WriteLine($"Курс: {product.GetCost().GetExRate()}");
-            Console.WriteLine($"Кількість: {product.GetQuantity()}");
-            Console.WriteLine($"Виробник: {product.GetProducer()}");
-            Console.WriteLine($"Вага (кг): {product.GetWeight()}");
+            Console.WriteLine($"Назва: {product.Name}");
+            Console.WriteLine($"Ціна: {product.Price}");
+            Console.WriteLine($"Валюта: {product.Cost.Name}");
+            Console.WriteLine($"Курс: {product.Cost.ExRate}");
+            Console.WriteLine($"Кількість: {product.Quantity}");
+            Console.WriteLine($"Виробник: {product.Produser}");
+            Console.WriteLine($"Вага (кг): {product.Weight}");
             Console.WriteLine($"Ціна в UAH: {product.GetPriceInUAH()}");
             Console.WriteLine($"Термін придатності: {product.ExpirationInDays} днів / {product.ExpirationInMonths} міс. / {product.ExpirationInYears} рік(років)\n");
 

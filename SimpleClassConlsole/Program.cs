@@ -70,7 +70,7 @@ namespace SimpleClassConlsole
                             Console.WriteLine("Термін придатності кожного товару:");
                             foreach (var prod in products)
                             {
-                                Console.WriteLine($"{prod.GetName()} — {prod.ExpirationInDays} днів / {prod.ExpirationInMonths} міс. / {prod.ExpirationInYears} рік(років)");
+                                Console.WriteLine($"{prod.Name} — {prod.ExpirationInDays} днів / {prod.ExpirationInMonths} міс. / {prod.ExpirationInYears} рік(років)");
                             }
                         }
                         break;
@@ -134,33 +134,33 @@ namespace SimpleClassConlsole
 
         public static void GetProductsInfo(Product[] products, out double max, out double min)
         {
-            max = min = products[0].GetPrice();
+            max = min = products[0].Price;
             Product maxP = products[0], minP = products[0];
 
             foreach (var p in products)
             {
-                if (p.GetPrice() > max) { max = p.GetPrice(); maxP = p; }
-                if (p.GetPrice() < min) { min = p.GetPrice(); minP = p; }
+                if (p.Price > max) { max = p.Price; maxP = p; }
+                if (p.Price < min) { min = p.Price; minP = p; }
             }
 
-            Console.WriteLine($"Найдорожчий товар: {maxP.GetName()} - {max}");
-            Console.WriteLine($"Найдешевший товар: {minP.GetName()} - {min}");
+            Console.WriteLine($"Найдорожчий товар: {maxP.Name} - {max}");
+            Console.WriteLine($"Найдешевший товар: {minP.Name} - {min}");
         }
 
         public static void SortProductsByPrice(Product[] products)
         {
-            Array.Sort(products, (a, b) => a.GetPrice().CompareTo(b.GetPrice()));
+            Array.Sort(products, (a, b) => a.Price.CompareTo(b.Price));
             Console.WriteLine("\nСортування за ціною:");
             foreach (var p in products)
-                Console.WriteLine($"{p.GetName()} - {p.GetPrice()}");
+                Console.WriteLine($"{p.Name} - {p.Price}");
         }
 
         public static void SortProductsByCount(Product[] products)
         {
-            Array.Sort(products, (a, b) => a.GetQuantity().CompareTo(b.GetQuantity()));
+            Array.Sort(products, (a, b) => a.Quantity.CompareTo(b.Quantity));
             Console.WriteLine("\nСортування за кількістю:");
             foreach (var p in products)
-                Console.WriteLine($"{p.GetName()} - {p.GetQuantity()}");
+                Console.WriteLine($"{p.Name} - {p.Quantity}");
         }
     }
 }
